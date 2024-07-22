@@ -21,8 +21,10 @@
 
 <p align="center">
 
-<img src="https://source.unsplash.com/random" alt="Random Image" width="400px">
-<img src="https://source.unsplash.com/random" alt="Random Image" width="400px">
+![image](https://github.com/user-attachments/assets/9886ccb8-a788-4634-924f-8df68e854ca1)
+![image](https://github.com/user-attachments/assets/b4e27350-a93f-40a9-93e6-eccd0113391f)
+
+
 </p>
  
 <h2 id="technologies">💻 Technologies</h2>
